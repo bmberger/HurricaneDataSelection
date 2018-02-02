@@ -1,0 +1,7 @@
+
+Summary of Categories
+    Cat 1: 37 
+    Cat 2: 14 
+    Cat 3: 15 
+    Cat 4: 15 
+    Cat 5:  8 
